@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/m-murphy/m-murphy.r-universe.dev
 	branch = HEAD
+[submodule "eppicenter.tools"]
+	path = eppicenter.tools
+	url = https://github.com/m-murphy/eppicenter.tools
